@@ -1,0 +1,121 @@
+[
+  {
+    "id": "1",
+    "subjectId": "840d4697-6aff-4c2e-bb72-cc9e8f6caa2e",
+    "text": "y \u003d x, y \u003d x2, x \u003d 2 egri chiziqlar bilan chegaralangan yuzani hisoblang",
+    "correctAnswer": "5/6",
+    "wrongAnswers": "56\u002621\u00261/5"
+  },
+  {
+    "id": "2",
+    "subjectId": "840d4697-6aff-4c2e-bb72-cc9e8f6caa2e",
+    "text": "y\u003d4x-x2 va  Ox o’q bilan chegaralangan yuzani hisoblang",
+    "correctAnswer": "32/3",
+    "wrongAnswers": "16\u002616/3\u002618/3"
+  },
+  {
+    "id": "3",
+    "subjectId": "840d4697-6aff-4c2e-bb72-cc9e8f6caa2e",
+    "text": "x\u003d2(t-sint), y\u003d2(1-cost) va Ox o’q bilan chegaralangan figurani yuzini to’ing",
+    "correctAnswer": "12pi",
+    "wrongAnswers": "5pi\u00268pi\u002610pi"
+  },
+  {
+    "id": "4",
+    "subjectId": "840d4697-6aff-4c2e-bb72-cc9e8f6caa2e",
+    "text": "u\u003d-x2 va x+u+2\u003d0 chiziqlar bilan chegaralangan yuzani toping",
+    "correctAnswer": "9/2",
+    "wrongAnswers": "9/3\u00267/3\u00265/2"
+  },
+  {
+    "id": "5",
+    "subjectId": "840d4697-6aff-4c2e-bb72-cc9e8f6caa2e",
+    "text": "a\u003c\u003dx\u003c\u003db  tengsizlikni qanoatlantiruvchi  nuqtalarining  o’rni  qanday  nomlanadi?",
+    "correctAnswer": "kesma",
+    "wrongAnswers": "interval\u0026yarim oraliq\u0026atrof"
+  },
+  {
+    "id": "6",
+    "subjectId": "840d4697-6aff-4c2e-bb72-cc9e8f6caa2e",
+    "text": "y\u003dx^3  funksiyaga  x\u003d1  nuqtada urinmaning burchak koeffitsientini aniqlang.",
+    "correctAnswer": "3",
+    "wrongAnswers": "1\u00260\u00261/3"
+  },
+  {
+    "id": "7",
+    "subjectId": "0b7b7684-c114-497b-9c16-d6ec92c707b9",
+    "text": "Falsafaning predmeti –",
+    "correctAnswer": "Borliqning eng umumiy xususiyatlari",
+    "wrongAnswers": "Yaxshilik va yomonlik\u0026. Tabiat qonunlari\u0026Haqiqat va adashish"
+  },
+  {
+    "id": "8",
+    "subjectId": "0b7b7684-c114-497b-9c16-d6ec92c707b9",
+    "text": "Falsafiy masalalar quyidagi shakllarda namoyon bo‘ladi:",
+    "correctAnswer": "Ilmiy-nazariy",
+    "wrongAnswers": "Ilmiy\u0026 Mifologik\u0026 Irratsional"
+  },
+  {
+    "id": "9",
+    "subjectId": "0b7b7684-c114-497b-9c16-d6ec92c707b9",
+    "text": "“Filosofiya” atamasini ilk bor qo‘llagan mutafakkir",
+    "correctAnswer": "Pifagor",
+    "wrongAnswers": "Demokrit\u0026 Aristotel\u0026 Suqrot"
+  },
+  {
+    "id": "10",
+    "subjectId": "0b7b7684-c114-497b-9c16-d6ec92c707b9",
+    "text": "Donishmandlik nima?",
+    "correctAnswer": "Bilim, hayotiy tajriba",
+    "wrongAnswers": "Bilimdonlik\u0026Bilimlar yig‘indisi \u0026 Donolik"
+  },
+  {
+    "id": "11",
+    "subjectId": "0b7b7684-c114-497b-9c16-d6ec92c707b9",
+    "text": "“Filosofiya” atamasining ma’nosi -",
+    "correctAnswer": "Donishmandlikni sevmoq",
+    "wrongAnswers": "Donolik\u0026Hayotning mazmuni\u0026 Haqiqat va baxt"
+  },
+  {
+    "id": "12",
+    "subjectId": "0b7b7684-c114-497b-9c16-d6ec92c707b9",
+    "text": "Aflotunning falsafiy qarashlari:",
+    "correctAnswer": "G‘oyalar dunyosi va soyalar dunyosi",
+    "wrongAnswers": "Atom\u0026 Apeyron\u0026 Mayda zarra"
+  },
+  {
+    "id": "13",
+    "subjectId": "0b7b7684-c114-497b-9c16-d6ec92c707b9",
+    "text": "Arastu fikricha mavjudlik tamoyillari qaysilar?",
+    "correctAnswer": "Shakl, materiya, haqiqat va maqsad",
+    "wrongAnswers": "Passiv materiya\u0026 Aktiv shakl\u0026Ilohiylik"
+  },
+  {
+    "id": "14",
+    "subjectId": "0b7b7684-c114-497b-9c16-d6ec92c707b9",
+    "text": "Hozirgi zamon falsafiy qarashlarida falsafaning bosh masalasi -",
+    "correctAnswer": "Antropologiya-inson masalasi",
+    "wrongAnswers": "Ontologiya-borliq masalasi\u0026 Gnoseologiya-bilish masalasi\u0026 Kosmologiya"
+  },
+  {
+    "id": "15",
+    "subjectId": "0b7b7684-c114-497b-9c16-d6ec92c707b9",
+    "text": "Dunyoqarashning tarixiy shakllari",
+    "correctAnswer": "Mifologik,diniy, ilmiy - falsafiy",
+    "wrongAnswers": "Diniy,ilmiy, antisstientik\u0026 Mifologik, ilmiy\u0026 Diniy, sstientik"
+  },
+  {
+    "id": "16",
+    "subjectId": "0b7b7684-c114-497b-9c16-d6ec92c707b9",
+    "text": "Qadimgi Yunonistonda ilk falsafiy qarashlar qachon paydo bo‘lgan?",
+    "correctAnswer": "Er.avv. VI asr",
+    "wrongAnswers": "Er.avv. VI-V asrlar\u0026 Er.avv. III asr\u0026 Er.avv. IV – III asrlar"
+  },
+  {
+    "id": "17",
+    "subjectId": "5388f2d1-f893-49c0-bd28-e926cb1c0b62",
+    "text": "3+4\u003d",
+    "correctAnswer": "7",
+    "wrongAnswers": "3\u00264\u00266"
+  }
+]

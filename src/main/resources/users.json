@@ -1,0 +1,44 @@
+[
+  {
+    "chatId": "5181619427",
+    "firstName": "Nuriddinov Elshod",
+    "lastName": null,
+    "username": "Elshod1018",
+    "status": "ADMIN"
+  },
+  {
+    "chatId": "5174610361",
+    "firstName": "TUIT student",
+    "lastName": null,
+    "username": "tuit_student_003",
+    "status": "MAIN_ADMIN"
+  },
+  {
+    "chatId": "1016819290",
+    "firstName": "Sarvarbek",
+    "lastName": "Maxmudov",
+    "username": "sarvarbekmaxmudov",
+    "status": "MAIN_ADMIN"
+  },
+  {
+    "chatId": "5775371713",
+    "firstName": "Java Developer",
+    "lastName": null,
+    "username": "java_developer_003",
+    "status": "USER"
+  },
+  {
+    "chatId": "1531716663",
+    "firstName": "𝐒𝐚𝐥𝐨𝐡𝐢𝐝𝐝𝐢𝐧​",
+    "lastName": null,
+    "username": "Salohiddin_Anvarov",
+    "status": "USER"
+  },
+  {
+    "chatId": "958803905",
+    "firstName": "DILSHOD",
+    "lastName": null,
+    "username": "Dima2001_17_08",
+    "status": "MAIN_ADMIN"
+  }
+]

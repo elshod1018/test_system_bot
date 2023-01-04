@@ -1,0 +1,92 @@
+[
+  {
+    "id": "4b14e364-ad1b-48c0-a8f6-c4bdf6caa0e7",
+    "subjectId": "840d4697-6aff-4c2e-bb72-cc9e8f6caa2e",
+    "chatId": "5775371713",
+    "count": 6,
+    "score": 3,
+    "startedAt": "19.12.2022 22:33:50",
+    "finishedAt": "19.12.2022 22:34:43"
+  },
+  {
+    "id": "af36fcb5-9611-491a-b2c2-b075a0097a03",
+    "subjectId": "0b7b7684-c114-497b-9c16-d6ec92c707b9",
+    "chatId": "5775371713",
+    "count": 10,
+    "score": 8,
+    "startedAt": "19.12.2022 22:46:03",
+    "finishedAt": "19.12.2022 22:47:39"
+  },
+  {
+    "id": "fdf8bb09-dd4e-4bab-98ab-240e132e1cad",
+    "subjectId": "840d4697-6aff-4c2e-bb72-cc9e8f6caa2e",
+    "chatId": "1531716663",
+    "count": 6,
+    "score": 0,
+    "startedAt": "19.12.2022 22:49:01",
+    "finishedAt": "19.12.2022 22:49:31"
+  },
+  {
+    "id": "e4543847-9858-4a80-8854-2d4bd28ac5a2",
+    "subjectId": "0b7b7684-c114-497b-9c16-d6ec92c707b9",
+    "chatId": "1531716663",
+    "count": 10,
+    "score": 2,
+    "startedAt": "19.12.2022 22:49:43",
+    "finishedAt": "19.12.2022 22:50:52"
+  },
+  {
+    "id": "aeb899fb-c410-46d4-8f11-96c5fff0c882",
+    "subjectId": "0b7b7684-c114-497b-9c16-d6ec92c707b9",
+    "chatId": "5775371713",
+    "count": 10,
+    "score": 2,
+    "startedAt": "20.12.2022 12:59:39",
+    "finishedAt": "20.12.2022 13:00:10"
+  },
+  {
+    "id": "6964b565-e2bc-4552-8c08-18bd693bd43d",
+    "subjectId": "840d4697-6aff-4c2e-bb72-cc9e8f6caa2e",
+    "chatId": "1016819290",
+    "count": 6,
+    "score": 2,
+    "startedAt": "20.12.2022 18:11:28",
+    "finishedAt": "20.12.2022 18:13:16"
+  },
+  {
+    "id": "6d9aac3c-f972-4b02-b944-24e34f818b1d",
+    "subjectId": "0b7b7684-c114-497b-9c16-d6ec92c707b9",
+    "chatId": "958803905",
+    "count": 10,
+    "score": 2,
+    "startedAt": "22.12.2022 19:39:54",
+    "finishedAt": "22.12.2022 19:40:23"
+  },
+  {
+    "id": "695c73b4-14e3-41ac-95ea-8b8dbb880352",
+    "subjectId": "840d4697-6aff-4c2e-bb72-cc9e8f6caa2e",
+    "chatId": "958803905",
+    "count": 6,
+    "score": 1,
+    "startedAt": "22.12.2022 19:40:30",
+    "finishedAt": "22.12.2022 19:40:56"
+  },
+  {
+    "id": "ad2c803b-22ae-4340-a03a-2dab8c403cc1",
+    "subjectId": "0b7b7684-c114-497b-9c16-d6ec92c707b9",
+    "chatId": "958803905",
+    "count": 10,
+    "score": 3,
+    "startedAt": "22.12.2022 19:41:03",
+    "finishedAt": "22.12.2022 19:42:08"
+  },
+  {
+    "id": "e0defb45-bc3b-439b-a115-eb04ee6a7bc1",
+    "subjectId": "5388f2d1-f893-49c0-bd28-e926cb1c0b62",
+    "chatId": "958803905",
+    "count": 1,
+    "score": 1,
+    "startedAt": "22.12.2022 19:42:13",
+    "finishedAt": "22.12.2022 19:42:20"
+  }
+]
