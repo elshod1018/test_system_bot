@@ -7,8 +7,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="test_system_bot" />
+      </profile>
+      <profile name="Annotation profile for question-solve-bot" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.42/lombok-1.18.42.jar" />
+        </processorPath>
+        <module name="question-solve-bot" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="test_system_bot (1)" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="question-solve-bot" options="-parameters" />
+      <module name="test_system_bot" options="-parameters" />
+    </option>
   </component>
 </project>

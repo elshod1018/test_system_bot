@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: ${APP_NAME:question-solve-bot}
+  profiles:
+    active: ${APP_PROFILE:prod}
